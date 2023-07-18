@@ -1,2 +1,2 @@
 # Uni-Portfolio
-Previous projects which have been finalised and completed whilst at University. Some information has been omitted where necessary.
+A previous project from Univesity demonstrating some capability of Data mining - furthered by machine learning, has been finalized and altered to omitted as required.
